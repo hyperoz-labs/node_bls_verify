@@ -7,7 +7,7 @@
     "start": "node --loader=ts-node/esm index.ts"
   },
   "keywords": [],
-  "author": "usmansaleem",
+  "author": "Hyperoz Labs",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
